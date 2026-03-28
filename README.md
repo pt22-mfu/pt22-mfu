@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🎓 Studying **Computer Engineering at Mae Fah Luang University (MFU)**.
 - 🚀 My core focus is **Data Engineering**, but I build end-to-end solutions spanning Data Analytics and Machine Learning.
-- 🌍 Currently building the **PM2.5 Air Quality Prediction for the MFU Valley** project.
+- 🌍 Currently building the **PM2.5 Air Quality Prediction for the Mae Fah Luang University** project.
 - 💡 I love architecting robust data pipelines, uncovering hidden insights, and deploying predictive models.
 
 ### 🛠️ Tech Stack & Tools
