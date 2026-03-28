@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | T-Shaped Data Professional</h3>
 
 <p align="center">
-  <a href="https://datawithpt.lovable.app/" target="_blank">
+  <a href="https://pt-the-data.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-6B46C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
