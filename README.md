@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | T-Shaped Data Professional</h3>
 
 <p align="center">
-  <a href="https://pt-the-data.lovable.app" target="_blank">
+  <a href="https://ptportfolio-aw35t6wq.manus.space/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-6B46C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 - **Google:** AI & Prompting Essentials
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio:** [pt-the-data.lovable.app](https://pt-the-data.lovable.app/)
+- 🌐 **Portfolio:** [pt-the-data.lovable.app](https://ptportfolio-aw35t6wq.manus.space/)
 - ✉️ **Email:** [phyothantkyaw22.pku@gmail.com] 
 
 ---
