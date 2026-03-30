@@ -27,7 +27,7 @@
 - **Google:** AI & Prompting Essentials
 
 ### 📫 Let's Connect
-- 🌐 **Portfolio:** [pt-the-data.lovable.app](https://ptportfolio-aw35t6wq.manus.space/)
+- 🌐 **Portfolio:** [https://ptportfolio-aw35t6wq.manus.space/](https://ptportfolio-aw35t6wq.manus.space/)
 - ✉️ **Email:** [phyothantkyaw22.pku@gmail.com] 
 
 ---
