@@ -13,13 +13,13 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Computer Engineering student at Mae Fah Luang University (MFU)**. While my core focus is **Data Engineering**, I am a T-Shaped Data Professional who builds end-to-end solutions spanning Data Analytics, Geospatial Analytics, and Machine Learning. 
+I am a 3rd-year **Computer Engineering student at Mae Fah Luang University (MFU)**. While my core focus is **Data Engineering**, I am a T-Shaped Data Professional who builds end-to-end solutions spanning Data Analytics, Geospatial Analytics, and Deep Learning. 
 
-My goal is to architect robust data pipelines, uncover hidden insights, and deploy predictive models that solve real-world problems.
+My goal is to architect robust data pipelines, uncover hidden insights, and deploy predictive AI models that solve real-world problems.
 
 * 🔭 **Currently working on:** Enterprise-grade Geo-Predictive AI Platforms (Chiang Mai Tri-Node) and Real-Time ETL Pipelines.
-* 🌱 **Currently learning:** Advanced Cloud Architecture (GCP) and Large Language Model (LLM) integrations.
-* 💬 **Ask me about:** Python, SQL, Spatial Analytics, and Machine Learning algorithms (XGBoost).
+* 🌱 **Currently learning/building:** Deep Learning Architectures (PyTorch/TensorFlow) and Retrieval-Augmented Generation (RAG) systems.
+* 💬 **Ask me about:** Python, SQL, Spatial Analytics, Generative AI integrations, and Machine Learning algorithms.
 
 ---
 
@@ -45,9 +45,10 @@ An end-to-end Machine Learning pipeline providing highly accurate (89%), localiz
 ![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Machine Learning & AI:** ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+**Machine Learning, Deep Learning & AI:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-000000?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-8A2BE2?style=for-the-badge)
 
 **Tools & Visualization:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
