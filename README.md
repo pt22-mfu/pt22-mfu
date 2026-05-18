@@ -1,34 +1,72 @@
 <h1 align="center">Hi there, I'm Phyo Thant Kyaw (PT) 👋</h1>
-<h3 align="center">Computer Engineer | T-Shaped Data Professional</h3>
+<h3 align="center">Data & AI Engineering Enthusiast | T-Shaped Data Professional</h3>
 
 <p align="center">
   <a href="https://ptportfolio-aw35t6wq.manus.space/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-6B46C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/phyo-thant-kyaw-2816332a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying **Computer Engineering at Mae Fah Luang University (MFU)**.
-- 🚀 My core focus is **Data Engineering**, but I build end-to-end solutions spanning Data Analytics and Machine Learning.
-- 🌍 Currently building the **PM2.5 Air Quality Prediction for Mae Fah Luang University** project.
-- 💡 I love architecting robust data pipelines, uncovering hidden insights, and deploying predictive models.
+I am a 3rd-year **Computer Engineering student at Mae Fah Luang University (MFU)**. While my core focus is **Data Engineering**, I am a T-Shaped Data Professional who builds end-to-end solutions spanning Data Analytics, Geospatial Analytics, and Machine Learning. 
 
-### 🛠️ Tech Stack & Tools
-- **Data Engineering & Cloud:** Google Cloud Platform (GCP), Data Lakes & Warehouses, ETL Pipelines
-- **Data Science & Analytics:** Python, SQL, Tableau, Predictive Modeling
-- **AI & Modern Workflow:** Generative AI, Advanced Prompt Engineering
+My goal is to architect robust data pipelines, uncover hidden insights, and deploy predictive models that solve real-world problems.
 
-### 📜 Key Certifications
-- **Google Cloud:** Core Infrastructure & Data Lakes
-- **Google:** Data Analytics Professional Certificate
-- **UC Davis:** SQL for Data Science
-- **Google:** AI & Prompting Essentials
-
-### 📫 Let's Connect
-- 🌐 **Portfolio:** [https://ptportfolio-aw35t6wq.manus.space/](https://ptportfolio-aw35t6wq.manus.space/)
-- ✉️ **Email:** [phyothantkyaw22.pku@gmail.com] 
+* 🔭 **Currently working on:** Enterprise-grade Geo-Predictive AI Platforms (Chiang Mai Tri-Node) and Real-Time ETL Pipelines.
+* 🌱 **Currently learning:** Advanced Cloud Architecture (GCP) and Large Language Model (LLM) integrations.
+* 💬 **Ask me about:** Python, SQL, Spatial Analytics, and Machine Learning algorithms (XGBoost).
 
 ---
+
+### 🏆 Featured Projects
+
+#### 🌍 [Chiang Mai Tri-Node Zone: Geo-Predictive AI Platform](https://github.com/pt22-mfu/chiangmai-trinode-pm25)
+An enterprise-grade web platform designed to forecast localized PM2.5 movement using **Z-score spatial analytics**. 
+* **Tech:** Python, Streamlit, Generative AI (LLM), NASA FIRMS API, Scikit-learn.
+* **Highlight:** Integrated a Generative AI Mitigation Copilot to automatically translate complex spatial data (Wind anomalies, Fire Radiative Power) into proactive action plans for local authorities.
+
+#### 🌫️ [Real-Time MFU PM2.5 Forecasting Engine](https://github.com/pt22-mfu/MFU_PM25_Prediction)
+An end-to-end Machine Learning pipeline providing highly accurate (89%), localized 5-day predictive trends for the MFU Valley microclimate.
+* **Tech:** Python, XGBoost, Automated ETL, OpenWeatherMap API, Pandas.
+* **Highlight:** Engineered automated data pipelines to ingest live meteorological and satellite hotspot data, outperforming baseline weather models.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Data Engineering & Architecture:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Machine Learning & AI:** ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-8A2BE2?style=for-the-badge)
+
+**Tools & Visualization:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+---
+
+### 📜 Key Certifications
+- ☁️ **Google Cloud:** Core Infrastructure & Build Data Lakes & Data Warehouses on GCP
+- 📊 **Google:** Data Analytics Professional Certificate
+- 🗄️ **UC Davis:** SQL for Data Science
+- 🤖 **Google:** AI & Prompting Essentials
+
+---
+
+### 📫 Let's Connect
+- 🌐 **Portfolio:** [View My Manus Portfolio](https://ptportfolio-aw35t6wq.manus.space/)
+- 💼 **LinkedIn:** [Phyo Thant Kyaw](https://www.linkedin.com/in/phyo-thant-kyaw-2816332a4/)
+- ✉️ **Email:** [phyothantkyaw22.pku@gmail.com](mailto:phyothantkyaw22.pku@gmail.com) 
+
 <p align="center"><i>"Architecting data pipelines, uncovering insights, and building predictive models."</i></p>
