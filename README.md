@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Computer Engineering student at Mae Fah Luang University (MFU)**. While my core focus is **Data Engineering**, I am a T-Shaped Data Professional who builds end-to-end solutions spanning Data Analytics, Geospatial Analytics, and Deep Learning. 
+I am a 4th-year **Computer Engineering student at Mae Fah Luang University (MFU)**. While my core focus is **Data Engineering**, I am a T-Shaped Data Professional who builds end-to-end solutions spanning Data Analytics, Geospatial Analytics, and Deep Learning. 
 
 My goal is to architect robust data pipelines, uncover hidden insights, and deploy predictive AI models that solve real-world problems.
 
