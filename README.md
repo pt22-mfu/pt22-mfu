@@ -30,10 +30,10 @@ An enterprise-grade web platform designed to forecast localized PM2.5 movement u
 * **Tech:** Python, Streamlit, Generative AI (LLM), NASA FIRMS API, Scikit-learn.
 * **Highlight:** Integrated a Generative AI Mitigation Copilot to automatically translate complex spatial data (Wind anomalies, Fire Radiative Power) into proactive action plans for local authorities.
 
-#### 🌫️ [Real-Time MFU PM2.5 Forecasting Engine](https://github.com/pt22-mfu/MFU_PM25_Prediction)
-An end-to-end Machine Learning pipeline providing highly accurate (89%), localized 5-day predictive trends for the MFU Valley microclimate.
-* **Tech:** Python, XGBoost, Automated ETL, OpenWeatherMap API, Pandas.
-* **Highlight:** Engineered automated data pipelines to ingest live meteorological and satellite hotspot data, outperforming baseline weather models.
+#### 🌫️ [MFU PM2.5 GeoAI Warning System](https://github.com/pt22-mfu/mfu-pm25-geoai-warning)
+An advanced GeoAI warning dashboard providing high-accuracy, localized 5-day predictive trends specifically engineered for the MFU Valley microclimate.
+* **Tech:** Python, LightGBM, Streamlit, GISTDA Sphere API, NASA FIRMS, Gemini AI.
+* **Highlight:** Architected a 4-Model Defense Showdown (with LightGBM achieving 85.90% R²) strictly integrated with real-time spatial fire pressure data, interactive localized GISTDA mapping, and automated multilingual AI campus advisories.
 
 ---
 
