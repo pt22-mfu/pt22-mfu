@@ -27,7 +27,7 @@ My goal is to architect robust data pipelines, uncover hidden insights, and depl
 ### 💼 Experience
 
 **Student Work Assistance | MLii Development Team**
-*May 2026 – Present*
+*May 2026 – July 2026*
 * Collaborating with the development team to assist in ongoing projects, contributing to data-driven solutions and optimizing technical workflows within the university's MLii ecosystem.
 
 ---
