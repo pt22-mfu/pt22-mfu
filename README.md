@@ -28,7 +28,7 @@ My goal is to architect robust data pipelines, uncover hidden insights, and depl
 
 **Student Work Assistance | MLii Development Team**
 *May 2026 – July 2026*
-* Collaborating with the development team to assist in ongoing projects, contributing to data-driven solutions and optimizing technical workflows within the university's MLii ecosystem.
+* Collaborated with the development team to assist in ongoing projects, contributing to data-driven solutions and optimizing technical workflows within the university's MLii ecosystem.
 
 ---
 
@@ -70,10 +70,12 @@ An enterprise-grade web platform designed to forecast localized PM2.5 movement u
 ---
 
 ### 📜 Key Certifications
-- ☁️ **Google Cloud:** Core Infrastructure & Build Data Lakes & Data Warehouses on GCP
+- 🔧 **IBM:** Data Engineering Professional Certificate
 - 📊 **Google:** Data Analytics Professional Certificate
+- ☁️ **Google Cloud:** Build Data Lakes & Data Warehouses
 - 🗄️ **UC Davis:** SQL for Data Science
-- 🤖 **Google:** AI & Prompting Essentials
+- 🤖 **Google:** Prompting Essentials
+- 🧠 **Google:** AI Essentials
 
 ---
 
