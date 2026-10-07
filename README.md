@@ -1,111 +1,80 @@
-<h1 align="center">Hi there, I'm Phyo Thant Kyaw (PT) 👋</h1>
-<h3 align="center">Data Engineer | AI Developer | T-Shaped Data Professional</h3>
+<h1 align="center">Hi, I'm Phyo Thant Kyaw (PT) 👋</h1>
+<h3 align="center">Data Engineering · AI Applications · Java Backend</h3>
+<p align="center">Computer Engineering student building useful systems from data to interface.</p>
 
 <p align="center">
-  <a href="https://pt22-mfu.github.io/pt_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-6B46C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://pt22-mfu.github.io/pt_portfolio/">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/phyo-thant-kyaw-2816332a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/phyo-thant-kyaw-2816332a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+About Me
+I enjoy connecting data preparation, backend development, machine learning, and clear user interfaces. My projects turn complex information into something people can inspect, understand, and act on—from air-quality dashboards to transaction review tools.
+I take responsibility for the full project workflow: understanding the problem, building and testing the solution, deploying a demo, and documenting how it works.
+Seeking: A full-time university co-operative education placement in data engineering, AI applications, backend development, or automation. Available 4 January–23 April 2027 and willing to relocate within Thailand. A longer placement can be discussed, subject to MFU approval.
+Academic Background
+B.Eng. in Computer Engineering · Mae Fah Luang University, Thailand
+Fourth-year student · GPAX: 3.84
+Coursework includes database systems, programming, networking, business data analytics, and big data technologies.
+Experience
+Student Work Assistant — Web & Data Projects
+MLii Development Team · Mae Fah Luang University · May–July 2026
+- Gathered requirements with nursing lecturers and wrote the Software Requirements Specification for a clinical scenario platform.
+- Built a working interface prototype with Next.js, TypeScript, and Tailwind CSS.
+- Designed the database schema, role-based access, API structure, and a proposed rule-and-LLM feedback workflow.
+Delivered: Requirements documentation, UI prototype, and system design. Full backend and AI integration remain pending.
+Selected Work
+🌫️ MFU PM2.5 GeoAI Warning System
+Senior project · Technical lead
+A dashboard that helps users understand air-quality estimates, fire activity, and possible future scenarios through visualizations and plain-language AI advisory.
+- My work: Data preparation and integration, weather and fire features, model comparison, dashboard development, and AI advisory integration.
+- Workflow: Air4Thai + NASA FIRMS + weather data → prepared features → ML estimates → dashboard and contextual explanations.
+- Built with: Python, LightGBM, XGBoost, Streamlit, GISTDA Sphere, and Gemini.
+Live dashboard · Source code
 
-### 👨‍💻 About Me
-I am a 4th-year **Computer Engineering student at Mae Fah Luang University (MFU)**. Building on my recent experience as a Student Work Assistant focusing on Web and Data Projects at the MLii Development Team, I operate as a T-Shaped Data Professional actively pursuing roles as a **Data Engineer** and **AI Developer**.
+<details>
+<summary><strong>Model evaluation and interpretation</strong></summary>
 
-My goal is to architect robust data pipelines, uncover hidden insights, and deploy predictive AI models that solve real-world problems.
+Adding fire features reduced LightGBM RMSE from 7.3237 to 6.9878 µg/m³ on the same 120 held-out days in January–April 2022.
+These are historical evaluation results. The dashboard's current value is a model estimate; future daily outputs are scenario projections. The AI advisory explains supplied model and environmental context.
+</details>
 
-* 🔭 **Currently building:** Enterprise-grade Geo-Predictive AI Platforms and Real-Time ETL Pipelines.
-* 🌱 **Currently learning:** Deep Learning Architectures (PyTorch) and Retrieval-Augmented Generation (RAG) systems.
-* 💬 **Ask me about:** Python, SQL, Spatial Analytics, Generative AI integrations, and Machine Learning algorithms.
+🏦 RiskDesk — Transaction Risk Review
+Personal project · Deployed demo
+A review workspace that helps a reviewer inspect unusual transaction patterns, follow the evidence, and record checks and next steps.
+- My work: Java REST APIs, SQL-backed review records, React interface, rule logic, AI explanation integration, deployment, and technical documentation.
+- Workflow: Transactions → Java rule findings and priority score → evidence and optional AI explanation → human review.
+- Built with: Java, Spring Boot, React, TypeScript, PostgreSQL/Supabase, Docker, Render, and Gemini.
+Live demo · Source code · Technical documentation (PDF)
 
----
+Uses fictional transactions. The score prioritizes review; it is not a probability of fraud. AI explanations support the reviewer, who makes the decision.
+More Projects
+Project	What I built	Links
+AI Vision QC Inspector	MobileNetV2 defect-classification demo with a Gemini-assisted quality report. Recorded 89.4% validation accuracy in a training run.	Demo · Code
+Chiang Mai Tri-Node PM2.5	Exploratory geospatial dashboard combining fire and weather information with AI-assisted scenario explanations.	Demo · Code
+Clinical Scenario & AI Feedback	Requirements, system design, and a Next.js interface prototype for nursing education. Backend integration pending.	Code & documentation
 
-### 💼 Experience
 
-**Student Work Assistant — Web & Data Projects | MLii Development Team**
-*May 2026 – July 2026*
-* Architected a Zero-Budget Hybrid AI Evaluation Engine for a clinical web platform, combining a fast rule-based matcher (< 500ms) with Google Gemini 1.5 Flash LLM for semantic assessment.
-* Authored the comprehensive Software Requirements Specification (SRS) and developed a functional UI prototype using Next.js 14 and Tailwind CSS.
-* Engineered a secure, Thai PDPA-compliant PostgreSQL database architecture via Supabase and optimized API response times with Upstash Redis caching.
+Skills & Tools
+Area	Technologies and practices
+Programming	Python, Java, SQL, TypeScript, JavaScript
+Data	PostgreSQL, Supabase, data cleaning, feature engineering, API integration
+Backend & Web	Spring Boot, REST APIs, React, Next.js, Tailwind CSS
+ML & AI	LightGBM, XGBoost, scikit-learn, TensorFlow, Gemini integration, model evaluation
+Delivery & Visualization	Git, GitHub, Docker, Render, Streamlit, technical documentation
 
----
 
-### 🏆 Featured Projects
-
-#### 🔍 [AI Vision QC Inspector](https://github.com/pt22-mfu/ai-vision-qc-inspector)
-A computer-vision quality-control tool classifying manufacturing parts as defective/OK using transfer learning, paired with a Gemini-generated QA report for production supervisors.
-* **Live Demo:** [ai-vision-qc-inspector-by-pt.streamlit.app](https://ai-vision-qc-inspector-by-pt.streamlit.app/)
-* **Role Focus:** AI Developer
-* **Tech:** TensorFlow, MobileNetV2 (Transfer Learning), Gemini 2.5 Flash, Streamlit
-* **Highlight:** Achieved **89.4% validation accuracy** after 5 epochs of transfer learning, trained on 6,633 images. Debugged and deployed end-to-end, including resolving Python version conflicts and migrating to Google's new GenAI SDK.
-
-#### 🌫️ [MFU PM2.5 GeoAI Warning System (SP2 Upgrade)](https://github.com/pt22-mfu/mfu-pm25-geoai-warning)
-An advanced GeoAI warning dashboard providing localized 5-day predictive trends, specifically engineered for the MFU Valley microclimate to tackle the severe burning season.
-* **Live Dashboard:** [mfu-pm25-geoai-warning-system.streamlit.app](https://mfu-pm25-geoai-warning-system.streamlit.app/)
-* **Role Focus:** Data Engineer / AI Developer
-* **Tech:** Python, LightGBM, XGBoost, Streamlit, GISTDA Sphere API, NASA FIRMS, Gemini AI.
-* **Highlight:** Upgraded from regional data to a strict 5-year Chiang Rai dataset for geographic reliability. Architected a 4-Model Defense Showdown where the **Fire-Integrated LightGBM** emerged as the champion, achieving a robust **85.90% R²** against hard-core PM2.5 spikes.
-
-#### 🌍 [Chiang Mai Tri-Node Zone: Geo-Predictive AI Platform](https://github.com/pt22-mfu/chiangmai-trinode-pm25)
-An enterprise-grade web platform designed to forecast localized PM2.5 movement using **Z-score spatial analytics**.
-* **Live Dashboard:** [chiangmai-trinode-zone-pm25-prediction.streamlit.app](https://chiangmai-trinode-zone-pm25-prediction.streamlit.app/)
-* **Role Focus:** AI Developer / Data Engineer
-* **Tech:** Python, Streamlit, Generative AI (LLM), NASA FIRMS API, Scikit-learn.
-* **Highlight:** Integrated a Generative AI Mitigation Copilot to automatically translate complex spatial data (Wind anomalies, Fire Radiative Power) into proactive action plans for local authorities.
-
-#### 🏥 [Web-Based Clinical Scenario with AI Feedback System](https://github.com/pt22-mfu/nursing-clinical-scenario-ai-feedback)
-An interactive clinical evaluation platform built for the School of Nursing (MFU), delivering 12 patient scenarios across 6 body systems to 4th-year nursing students.
-* **Role Focus:** System Analyst / AI Developer
-* **Tech:** Next.js 14, TypeScript, Tailwind CSS, Prisma, PostgreSQL (Supabase), Upstash Redis, Gemini 1.5 Flash API.
-* **Highlight:** Authored the full Software Requirements Specification (SRS) covering RBAC, PDPA data controls, and API architecture — then translated it directly into a working Next.js UI prototype and system design.
-* **Status:** Working UI prototype and system architecture completed. Full backend integration paused pending administrative budget confirmation.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Data Engineering & Architecture:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Machine Learning, Deep Learning & AI:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-000000?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-LLMs-8A2BE2?style=for-the-badge)
-
-**Web & Backend:**
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Tools & Visualization:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
----
-
-### 📜 Key Certifications
-- 🔧 **IBM:** [Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/PEQB40RH0NUU)
-- 📊 **Google:** [Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CT58UMUB0V4R)
-- ☁️ **Google Cloud:** [Build Data Lakes & Data Warehouses](https://www.coursera.org/account/accomplishments/verify/M8M3B0Y7QGVV)
-- 🗄️ **UC Davis:** [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/KSRTIHE6BHO8)
-- 🤖 **Google:** [Prompting Essentials](https://www.coursera.org/account/accomplishments/specialization/HA7IOPDF4WUF)
-- 🧠 **Google:** [AI Essentials](https://www.coursera.org/account/accomplishments/verify/SPPAZGDMT9EO)
-
----
-
-### 📫 Let's Connect
-- 🌐 **Portfolio:** [View My Portfolio](https://pt22-mfu.github.io/pt_portfolio/)
-- 💼 **LinkedIn:** [Phyo Thant Kyaw](https://www.linkedin.com/in/phyo-thant-kyaw-2816332a4/)
-- ✉️ **Email:** [phyothantkyaw22.pku@gmail.com](mailto:phyothantkyaw22.pku@gmail.com)
-
-<p align="center"><i>"Architecting data pipelines, uncovering insights, and building predictive models."</i></p>
+Coursework and certificate exposure: Hadoop, Spark, Kafka, and Google Cloud.
+Currently learning: RAG systems, PyTorch, and workflow automation.
+Certifications
+- IBM: Data Engineering Professional Certificate
+- Google: Data Analytics Professional Certificate
+- Google Cloud: Build Data Lakes & Data Warehouses
+- UC Davis: SQL for Data Science
+- Google: Prompting Essentials
+- Google: AI Essentials
+Let's Connect
+Portfolio · LinkedIn · Email
